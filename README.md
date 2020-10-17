@@ -5,6 +5,8 @@ You are selected to be one of the first settlers in a Moon colony and have the m
 The habitats are ready to use and you (supposed to) have the tools that you need.
 Good Luck!
 
+Focus: Singleplayer simulation, LAN multiplayer.
+
 Features: 
 - Real Moon topography with NASA data (mapgen by Alexander R. Pruss)
 - Real Moon gravity
