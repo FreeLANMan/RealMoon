@@ -20,3 +20,5 @@ Possibles future features:
 - Vacuum propagation
 
 Tips:
+- Use the airpump to eliminate the vacuum inside a building.
+- Use the aircompressor to recharge the air tanks
