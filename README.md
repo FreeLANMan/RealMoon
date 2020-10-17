@@ -2,7 +2,7 @@
 Minetest game: Simulation of a moon colony.
 
 You are selected to be one of the first settlers in a Moon colony and have the mission of survive in this new world. 
-The habitats are ready to use and you (supposed to) have the tools that you need.
+The habitats are ready to use and you (supposed to) have the tools that you need. You start at the top of the Shackleton crater in the Moon’s South Pole.
 Good Luck!
 
 Focus: Singleplayer simulation, LAN multiplayer.
