@@ -23,4 +23,5 @@ Possibles future features:
 
 Tips:
 - Use the airpump to eliminate the vacuum inside a building.
-- Use the aircompressor to recharge the air tanks
+- Use the aircompressor to recharge the air tanks.
+- Soil become gravel in contact with vacuum.
