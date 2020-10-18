@@ -26,6 +26,10 @@ Tips:
 - Use the aircompressor to recharge the air tanks.
 - Soil become gravel in contact with vacuum.
 
+Installation:
+- Just download e extract the zip file in the /games/ directory of the Minetest.
+- Tests made only in the 5.3.0 Minetest version.
+
 Thanks to:
 - Minetest creators
 - Alexander R. Pruss for the mapgen
