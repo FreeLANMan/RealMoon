@@ -35,5 +35,3 @@ Thanks to:
 - Alexander R. Pruss for the mapgen
 - HoerMirAuf for fix idea for the Moon mapgen
 - and all used mods collaborators
-
-![screenshot](../screenshots/screenshot.jpg?raw=true)
