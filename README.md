@@ -25,3 +25,9 @@ Tips:
 - Use the airpump to eliminate the vacuum inside a building.
 - Use the aircompressor to recharge the air tanks.
 - Soil become gravel in contact with vacuum.
+
+Thanks to:
+- Minetest creators
+- Alexander R. Pruss for the mapgen
+- HoerMirAuf for fix idea for the Moon mapgen
+- and all used mod collaborators
