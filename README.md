@@ -34,4 +34,4 @@ Thanks to:
 - Minetest creators
 - Alexander R. Pruss for the mapgen
 - HoerMirAuf for fix idea for the Moon mapgen
-- and all used mod collaborators
+- and all used mods collaborators
